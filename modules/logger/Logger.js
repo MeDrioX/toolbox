@@ -3,6 +3,7 @@
  */
 
 const dateFormat = require("dateformat");
+const colors = require("colors");
 
 "use strict";
 
